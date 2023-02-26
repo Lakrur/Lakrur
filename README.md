@@ -30,7 +30,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Lakrur&show_icons=true&theme=tokyonight" alt="GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakrur&theme=tokyonight" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakrur&theme=tokyonight" alt="GitHub Streak">
 </p>
 <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=Lakrur&theme=onedark" alt="GitHub Contributions">
