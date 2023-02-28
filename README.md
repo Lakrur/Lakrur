@@ -36,7 +36,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Lakrur&theme=onedark" alt="GitHub Contributions">
 </p>
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakrur&theme=tokyonight&layout=compact" alt="Top languages used">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakrur&theme=tokyonight&layout=compact">
 </p>
 <h3 align="left">Visitor Count:</h3>
 <p align="left">
