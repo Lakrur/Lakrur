@@ -3,6 +3,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Xcode-blue?style=for-the-badge&logo=xcode&logoColor=white" alt="git"/>
+    </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
     </a>
