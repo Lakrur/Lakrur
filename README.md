@@ -28,9 +28,9 @@
 <p align="left">Hope you like my apps! 😊</p>
 </p>
 <h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakrur&show_icons=true&theme=tokyonight" alt="GitHub stats" style="display: inline-block;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakrur&theme=tokyonight" alt="GitHub Streak" style="display: inline-block;">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lakrur&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakrur&theme=tokyonight&border=61dafb&hide_border=true" alt="lakrur" />
 </p>
 <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=Lakrur&theme=onedark" alt="GitHub Contributions">
