@@ -4,7 +4,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Xcode-blue?style=for-the-badge&logo=xcode&logoColor=white" alt="git"/>
+        <img src="https://img.shields.io/badge/Xcode-blue?style=for-the-badge&logo=xcode&logoColor=white" alt="XCode"/>
     </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
@@ -17,6 +17,9 @@
     </a>
     <a href="https://developer.apple.com/documentation/foundation/userdefaults" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/UserDefaults-orange?style=for-the-badge&logo=swift&logoColor=white" alt="UserDefaults(Swift)">
+    </a>
+  <a href="https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/MVC-orange?style=for-the-badge&logo=swift&logoColor=white" alt="MVC">
     </a>
     <a href="https://realm.io/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/realm-black?style=for-the-badge&logo=realm&logoColor=white" alt="realm"/>
