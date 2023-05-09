@@ -31,6 +31,11 @@
   <p>This is match game in the One Piece universe. Written in swift language using: UIKit, Realm, UserDefaults, AVFoundation. Find out more details about this app and see the code <a href="https://github.com/Lakrur/OnePieceCardGame">here.</a> </p>
 </details>
 
+<details>
+<summary><strong>App 2: GymPal </strong> 📱</summary>
+  <p>This is an application in which you can see the various exercises in the gym and their correct implementation. You can also track your progress in lifting weights and reps. Find out more details about this app and see the code <a href="https://github.com/Lakrur/GymPal">here.</a> </p>
+</details>
+
 <p align="left">Hope you like my apps! 😊</p>
 </p>
 <h3 align="left">GitHub Stats:</h3>
