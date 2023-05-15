@@ -36,6 +36,7 @@
   <p>This is an application in which you can see the various exercises in the gym and their correct implementation. You can also track your progress in lifting weights and reps. Find out more details about this app and see the code <a href="https://github.com/Lakrur/GymPal">here.</a> </p>
 </details>
 
+<details>
 <summary><strong>App 3: Weather </strong> 📱</summary>
   <p>This is an application that shows the weather. It is written according to SwiftBook courses. CoreLocation is used here so that the application shows weather information based on the user's location. API, UIKit is also used. Find out more details about this app and see the code <a href="https://github.com/Lakrur/Weather">here.</a> </p>
 </details>
