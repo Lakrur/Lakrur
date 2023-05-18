@@ -41,6 +41,11 @@
   <p>This is an application that shows the weather. It is written according to SwiftBook courses. CoreLocation is used here so that the application shows weather information based on the user's location. API, UIKit is also used. Find out more details about this app and see the code <a href="https://github.com/Lakrur/Weather">here.</a> </p>
 </details>
 
+<details>
+<summary><strong>App 4: CineXplorer </strong> 📱</summary>
+  <p>This is an application in which there are two tapbar tabs, the first one contains a selection of films by popularity, genres, etc. In the second tab, you can search for a movie. Find out more details about this app and see the code <a href="https://github.com/Lakrur/CineXplorer">here.</a> </p>
+</details>
+
 <p align="left">Hope you like my apps! 😊</p>
 </p>
 <h3 align="left">GitHub Stats:</h3>
