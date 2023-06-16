@@ -21,7 +21,7 @@
 
 <details>
 <summary><strong>App 4: CineXplorer </strong> 📱</summary>
-  <p>This is an application in which there are two tapbar tabs, the first one contains a selection of films by popularity, genres, etc. In the second tab, you can search for a movie. Find out more details about this app and see the code <a href="https://github.com/Lakrur/CineXplorer">here.</a> </p>
+  <p>Application in which to watch popular movies. There is a search function by title, as well as popular films by genre. Find out more details about this app and see the code <a href="https://github.com/Lakrur/CineXplorer">here.</a> </p>
 </details>
 
 <p align="left">Hope you like my apps! 😊</p>
