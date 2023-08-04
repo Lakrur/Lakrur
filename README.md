@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Yehor</h1>
 <h3 align="center">iOS Developer from Ukraine</h3>
 
+### 🔨 Languages and Tools:
+![Xcode](https://img.shields.io/badge/Xcode-1572B6?logo=xcode&style=for-the-badge&logoColor=fff)
+![Swift](https://img.shields.io/badge/Swift-E34F26?logo=swift&style=for-the-badge&logoColor=fff)
+![UIKit](https://img.shields.io/badge/UIKit-E34F26?logo=swift&style=for-the-badge&logoColor=fff)
+![Storyboard](https://img.shields.io/badge/Storyboard-E34F26?logo=swift&style=for-the-badge&logoColor=fff)
+![AutoLayout](https://img.shields.io/badge/AutoLayout-E34F26?logo=swift&style=for-the-badge&logoColor=fff)
+![API](https://img.shields.io/badge/Api-E34F26?logo=swift&style=for-the-badge&logoColor=fff)
+![MVC](https://img.shields.io/badge/MVC-E34F26?logo=swift&style=for-the-badge&logoColor=fff)
+![Realm](https://img.shields.io/badge/Realm-black?logo=realm&style=for-the-badge&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-red?logo=git&style=for-the-badge&logoColor=fff)
+![CocoaPods](https://img.shields.io/badge/cocoapods-red?logo=cocoapods&style=for-the-badge&logoColor=fff)
+![Alamofire](https://img.shields.io/badge/alamofire-E34F26?logo=swift&style=for-the-badge&logoColor=fff)
+![SDWebImage](https://img.shields.io/badge/SDWebImage-E34F26?logo=swift&style=for-the-badge&logoColor=fff)
+
+     
+ 
 
 </p>
     <h3 align="left">My Apps:</h3>
